@@ -2,7 +2,7 @@
 layout: single
 title:  "How to Build Own GIT?"
 date:   2020-08-12
-categories: git js
+categories: git JavaScript
 ---
 
 #### Try to Better Understand GIT
